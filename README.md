@@ -5,7 +5,7 @@ Este proyecto consiste en un sistema modular de gestión de tareas (**Task Manag
 ---
 
 ## Parámetros del Proyecto
-* **Aprendiz:** Joshua y Victor
+* **Aprendices:** Joshua y Victor
 * **Metodologías Aplicadas:** PSP (Personal Software Process) y TSP (Team Software Process)
 
 ---
