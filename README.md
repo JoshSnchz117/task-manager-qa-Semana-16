@@ -5,8 +5,7 @@ Este proyecto consiste en un sistema modular de gestión de tareas (**Task Manag
 ---
 
 ## Parámetros del Proyecto
-* **Ficha de Formación:** 3180844
-* **Aprendiz:** Joshua
+* **Aprendiz:** Joshua y Victor
 * **Metodologías Aplicadas:** PSP (Personal Software Process) y TSP (Team Software Process)
 
 ---
@@ -19,7 +18,7 @@ A continuación se presenta el reporte consolidado de analítica de código e in
 ========================================================================
          DASHBOARD DE CALIDAD INTEGRADO - TASK MANAGER 
 ========================================================================
-[Fecha Análisis]: 2026-06-13          [Ficha]: 3180844
+[Fecha Análisis]: 2026-06-13          
 [Estado General]: PASSED (Aprobado)    [Mapeo de Calidad]: Categoría A
 ------------------------------------------------------------------------
 
